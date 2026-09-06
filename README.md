@@ -7,7 +7,7 @@
 **Father First. Always.**  
 **Systems • Security • Software**
 
-Building secure systems, useful software, automation, bots, infrastructure, and communities.
+Building secure systems, useful software, automation, infrastructure, and community tooling.
 
 <br>
 
@@ -26,7 +26,7 @@ I'm **Joshua Jones**, online as **J2SEC / JSquareSec**.
 
 Father before anything else. Outside of that, I spend my time building and learning across **programming, cybersecurity, computer science, infrastructure, automation, networking, and community-driven software**.
 
-I like understanding how systems work at the lowest practical level, improving the things I use, and turning ideas into projects that people can actually run.
+I like understanding how systems work, improving the things I use, and turning ideas into projects that people can actually run.
 
 - 👨‍👧‍👦 **Father First. Always.**
 - 🛡️ Security, systems, infrastructure, and networking
@@ -65,6 +65,35 @@ SOFTWARE  // bots • APIs • automation • backend development
 
 ---
 
+## Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### BlackPort
+
+Network security scanner for authorized assessment work with TCP/SYN/UDP scanning, service fingerprinting, vulnerability correlation, reporting, and a local GUI.
+
+[![View Repository](https://img.shields.io/badge/View-BlackPort-168BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsquaresec/BlackPort)
+
+</td>
+<td width="50%" valign="top">
+
+### nohelmet
+
+Lightweight FiveM resource for keeping automatic helmets off player characters.
+
+[![View Repository](https://img.shields.io/badge/View-nohelmet-168BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsquaresec/nohelmet)
+
+</td>
+</tr>
+</table>
+
+> More security, infrastructure, and community projects are developed privately and published when they are ready for public use.
+
+---
+
 ## Communities
 
 <table>
@@ -83,13 +112,23 @@ Security-focused software, infrastructure, bots, and community projects.
 
 ### Evolution Gaming
 
-Gaming community and one of the spaces I help build around people, community, and shared interests.
+Gaming community centered around people, shared interests, and building a place worth being part of.
 
 [![Join Evolution Gaming](https://img.shields.io/badge/Join-Evolution%20Gaming-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rjf9ZYMARN)
 
 </td>
 </tr>
 </table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jsquaresec&theme=transparent&hide_border=true)](https://github.com/jsquaresec)
+
+</div>
 
 ---
 
@@ -100,5 +139,15 @@ Gaming community and one of the spaces I help build around people, community, an
 [![X](https://img.shields.io/badge/X-j2__sec-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/j2_sec?s=11)
 [![GitHub](https://img.shields.io/badge/GitHub-jsquaresec-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsquaresec)
 [![Website](https://img.shields.io/badge/Website-onlythedemons.com-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlythedemons.com)
+[![OTD Studios](https://img.shields.io/badge/Discord-OTD%20Studios-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nz5jE7PVh7)
+[![Evolution Gaming](https://img.shields.io/badge/Discord-Evolution%20Gaming-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rjf9ZYMARN)
+
+</div>
+
+---
+
+<div align="center">
+
+**Build with purpose. Secure what matters. Keep learning.**
 
 </div>
