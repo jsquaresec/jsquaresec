@@ -52,6 +52,18 @@ SOFTWARE  // bots • APIs • automation • backend development
 
 ---
 
+## Certifications & Badges
+
+### Introduction to Cyber Security: Stay Safe Online
+
+**The Open University / OpenLearn** • Issued September 2026
+
+Foundational cybersecurity credential covering online threats, malware, network security, cryptography, identity protection, and safer online practices.
+
+[![Verify Credential](https://img.shields.io/badge/Verify-Credential-168BFF?style=for-the-badge&logo=openbadges&logoColor=white)](https://www.open.edu/openlearn/badges/badge.php?hash=3f3aaed522c2cc2d8d04c733dabbdee7f154f51e)
+
+---
+
 ## Tech & Tools
 
 <div align="center">
