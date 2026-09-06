@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/jsquaresec/jsquaresec/main/assets/j2sec-banner.svg" alt="J2SEC banner" width="100%" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/jsquaresec/jsquaresec/main/assets/j2sec-logo.svg" alt="J2SEC logo" width="150" />
+
 # J2SEC
 
 ### Joshua Jones
