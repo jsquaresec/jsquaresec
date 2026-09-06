@@ -70,6 +70,14 @@ Networking credential issued by Cisco and publicly verified through Credly.
 
 [![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/5f247425-d38a-4497-bbb6-126668af27fc/public_url)
 
+### Python Coding 1
+
+**Cisco** • Issued September 2026
+
+Python programming credential issued by Cisco and publicly verified through Credly.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/6b3e909b-45d8-44f4-8a31-c878bcbd7495/public_url)
+
 ---
 
 ## Tech & Tools
