@@ -62,6 +62,14 @@ Foundational cybersecurity credential covering online threats, malware, network 
 
 [![Verify Credential](https://img.shields.io/badge/Verify-Credential-168BFF?style=for-the-badge&logo=openbadges&logoColor=white)](https://www.open.edu/openlearn/badges/badge.php?hash=3f3aaed522c2cc2d8d04c733dabbdee7f154f51e)
 
+### Cisco Networking
+
+**Cisco** • Issued September 2026
+
+Networking credential issued by Cisco and publicly verified through Credly.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/5f247425-d38a-4497-bbb6-126668af27fc/public_url)
+
 ---
 
 ## Tech & Tools
