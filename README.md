@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jsquaresec/jsquaresec/main/assets/j2sec-approved-banner.webp" alt="J2SEC approved banner" width="100%" />
+
 
 <br>
 
