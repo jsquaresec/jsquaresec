@@ -40,12 +40,6 @@ I like understanding how systems work, improving the things I use, and turning i
 - 🧠 Always learning, rebuilding, and improving
 - 🪽 **God Saved Me • 04/2026**
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jsquaresec/jsquaresec/main/assets/j2sec-approved-profile.webp" alt="J2SEC approved profile artwork" width="480" />
-
-</div>
-
 ---
 
 ## Current Focus
