@@ -54,6 +54,14 @@ SOFTWARE  // bots • APIs • automation • backend development
 
 ## Certifications & Badges
 
+### AWS Incident Response Demonstrated
+
+**Amazon Web Services (AWS)** • Issued September 2026
+
+Hands-on AWS credential demonstrating practical incident response skills across cloud detection, investigation, containment, and remediation workflows.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/fcfbca6c-7cc7-4de2-9704-a1bdf9d7ed4b/public_url)
+
 ### Introduction to Cyber Security: Stay Safe Online
 
 **The Open University / OpenLearn** • Issued September 2026
