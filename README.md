@@ -94,6 +94,28 @@ Ethical hacking credential issued by Cisco and publicly verified through Credly.
 
 [![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/cc6f57d0-015b-40d1-ad02-2afb4c1a37ac/public_url)
 
+### Cloud Credential Roadmap
+
+Building a focused multi-cloud security and infrastructure track through official **AWS** and **Google Cloud** hands-on credentials. Planned credentials are shown separately from credentials already earned.
+
+| Order | Provider | Credential | Focus | Status |
+|---:|---|---|---|---|
+| 1 | AWS | **AWS Incident Response Demonstrated** | Cloud incident detection, containment, and remediation | Planned |
+| 2 | Google Cloud | **Implement Cloud Security Fundamentals on Google Cloud** | IAM, service accounts, KMS, private networking, IAP, private GKE | Planned |
+| 3 | AWS | **AWS Application Networking Demonstrated** | Application delivery, networking, performance, architecture | Planned |
+| 4 | Google Cloud | **Build a Secure Google Cloud Network** | Secure VPC design and protected cloud networking | Planned |
+| 5 | AWS | **AWS Serverless Demonstrated** | Lambda, API Gateway, Step Functions, DynamoDB | Planned |
+| 6 | Google Cloud | **Networking in Google Cloud: Network Security** | DDoS protection, VPC access control, monitoring, threat defense | Planned |
+| 7 | Google Cloud | **Manage Kubernetes in Google Cloud** | GKE, kubectl, monitoring, debugging, continuous delivery | Planned |
+| 8 | Google Cloud | **Implement DevOps Workflows in Google Cloud** | Git, CI/CD, container builds, GKE deployment pipelines | Planned |
+| 9 | AWS | **AWS MLOps Demonstrated** | SageMaker AI deployment, observability, inference, scaling | Planned |
+| 10 | AWS | **AWS Agentic AI Demonstrated** | Amazon Bedrock agents, integration, troubleshooting, AgentCore | Planned |
+
+[![AWS Skill Builder](https://img.shields.io/badge/AWS-Skill%20Builder-111111?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://skillbuilder.aws/)
+[![Google Skills](https://img.shields.io/badge/Google-Cloud%20Skills-168BFF?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/)
+
+> Roadmap entries become verified credential entries here after they are earned and a public verification link is available.
+
 ---
 
 ## Tech & Tools
