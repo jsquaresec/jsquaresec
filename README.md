@@ -54,6 +54,14 @@ SOFTWARE  // bots • APIs • automation • backend development
 
 ## Certifications & Badges
 
+### Implement DevOps Workflows in Google Cloud
+
+**Google Cloud** • Issued September 2026
+
+Hands-on Google Cloud credential demonstrating DevOps workflows, source control, CI/CD, container builds, deployment pipelines, and application delivery on Google Cloud.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/0f9979bc-d59f-4d16-a80b-356838a44834/public_url)
+
 ### Build a Secure Google Cloud Network
 
 **Google Cloud** • Issued September 2026
