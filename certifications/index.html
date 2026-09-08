@@ -8,7 +8,7 @@
   <style>
     :root{color-scheme:dark;--bg:#070a0f;--panel:#0e141d;--text:#f4f7fb;--muted:#94a3b8;--line:#1f2937;--accent:#5aa9ff}
     *{box-sizing:border-box}body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:radial-gradient(circle at top,#101826 0,#070a0f 42%);color:var(--text)}
-    .wrap{width:min(980px,92%);margin:auto;padding:56px 0 72px}.hero{text-align:center;margin-bottom:34px}.eyebrow{letter-spacing:.18em;text-transform:uppercase;color:var(--muted);font-size:.78rem}.hero h1{font-size:clamp(2.2rem,7vw,4.8rem);margin:.35rem 0 .7rem}.hero p{max-width:680px;margin:auto;color:var(--muted);line-height:1.7}.chips{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin:22px 0}.chip{border:1px solid var(--line);padding:8px 12px;border-radius:999px;color:#dbe7f3;background:#0b1018}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}.card{background:linear-gradient(180deg,#101722,#0c121a);border:1px solid var(--line);border-radius:18px;padding:22px;box-shadow:0 14px 36px rgba(0,0,0,.25)}.card h2{font-size:1.2rem;margin:0 0 8px}.issuer{color:var(--accent);font-weight:700}.desc{color:var(--muted);line-height:1.55;min-height:72px}.btn{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;color:white;border:1px solid #31547a;background:#12385f;padding:10px 14px;border-radius:10px;font-weight:700}.btn:hover{filter:brightness(1.15)}.footer{text-align:center;color:var(--muted);margin-top:36px;font-size:.9rem}.footer a{color:#cbd5e1}
+    .wrap{width:min(980px,92%);margin:auto;padding:56px 0 72px}.hero{text-align:center;margin-bottom:34px}.eyebrow{letter-spacing:.18em;text-transform:uppercase;color:var(--muted);font-size:.78rem}.hero h1{font-size:clamp(2.2rem,7vw,4.8rem);margin:.35rem 0 .7rem}.hero p{max-width:680px;margin:auto;color:var(--muted);line-height:1.7}.chips{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin:22px 0}.chip{border:1px solid var(--line);padding:8px 12px;border-radius:999px;color:#dbe7f3;background:#0b1018}.provider{margin-top:38px}.provider-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:16px;padding-bottom:10px;border-bottom:1px solid var(--line)}.provider-head h2{margin:0;font-size:1.55rem}.count{color:var(--muted);font-size:.9rem}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}.card{background:linear-gradient(180deg,#101722,#0c121a);border:1px solid var(--line);border-radius:18px;padding:22px;box-shadow:0 14px 36px rgba(0,0,0,.25)}.card h3{font-size:1.2rem;margin:0 0 8px}.issuer{color:var(--accent);font-weight:700}.desc{color:var(--muted);line-height:1.55;min-height:72px}.btn{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;color:white;border:1px solid #31547a;background:#12385f;padding:10px 14px;border-radius:10px;font-weight:700}.btn:hover{filter:brightness(1.15)}.footer{text-align:center;color:var(--muted);margin-top:44px;font-size:.9rem}.footer a{color:#cbd5e1}
   </style>
 </head>
 <body>
@@ -16,59 +16,40 @@
     <section class="hero">
       <div class="eyebrow">J2SEC • JSquareSec</div>
       <h1>Certifications & Badges</h1>
-      <p>Verified credentials earned by <strong>Joshua Jones</strong> across cybersecurity, cloud, networking, Python, and technical foundations.</p>
-      <div class="chips"><span class="chip">Cybersecurity</span><span class="chip">Google Cloud</span><span class="chip">Cloud Security</span><span class="chip">Secure Networking</span><span class="chip">AWS Cloud</span><span class="chip">Incident Response</span><span class="chip">Networking</span><span class="chip">Python</span><span class="chip">Ethical Hacking</span></div>
+      <p>Verified credentials earned by <strong>Joshua Jones</strong>, organized by provider across cloud security, cybersecurity, networking, Python, and technical foundations.</p>
+      <div class="chips"><span class="chip">Google Cloud</span><span class="chip">AWS</span><span class="chip">Cisco</span><span class="chip">Other</span></div>
     </section>
 
-    <section class="grid">
-      <article class="card">
-        <div class="issuer">Google Cloud</div>
-        <h2>Build a Secure Google Cloud Network</h2>
-        <p class="desc">Hands-on Google Cloud credential demonstrating secure cloud networking, VPC design, firewall controls, private connectivity, and defensive network configuration.</p>
-        <a class="btn" href="https://www.credly.com/badges/087862e0-45ad-40e5-acab-1af9485822d5/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a>
-      </article>
-      <article class="card">
-        <div class="issuer">Google Cloud</div>
-        <h2>Implement Cloud Security Fundamentals on Google Cloud</h2>
-        <p class="desc">Hands-on Google Cloud credential covering foundational cloud security, identity and access management, service accounts, encryption, and secure cloud networking.</p>
-        <a class="btn" href="https://www.credly.com/badges/3a3a7799-7310-4c39-9ff6-879ae89dd610/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a>
-      </article>
-      <article class="card">
-        <div class="issuer">Amazon Web Services (AWS)</div>
-        <h2>AWS Incident Response Demonstrated</h2>
-        <p class="desc">Hands-on AWS credential demonstrating practical cloud incident response across detection, investigation, containment, and remediation workflows.</p>
-        <a class="btn" href="https://www.credly.com/badges/fcfbca6c-7cc7-4de2-9704-a1bdf9d7ed4b/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a>
-      </article>
-      <article class="card">
-        <div class="issuer">Cisco</div>
-        <h2>Ethical Hacking</h2>
-        <p class="desc">Ethical hacking credential publicly verified through Credly.</p>
-        <a class="btn" href="https://www.credly.com/badges/cc6f57d0-015b-40d1-ad02-2afb4c1a37ac/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a>
-      </article>
-      <article class="card">
-        <div class="issuer">Cisco</div>
-        <h2>Cisco Networking</h2>
-        <p class="desc">Networking credential publicly verified through Credly.</p>
-        <a class="btn" href="https://www.credly.com/badges/5f247425-d38a-4497-bbb6-126668af27fc/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a>
-      </article>
-      <article class="card">
-        <div class="issuer">Cisco</div>
-        <h2>Python Coding 1</h2>
-        <p class="desc">Python programming credential publicly verified through Credly.</p>
-        <a class="btn" href="https://www.credly.com/badges/6b3e909b-45d8-44f4-8a31-c878bcbd7495/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a>
-      </article>
-      <article class="card">
-        <div class="issuer">Cisco</div>
-        <h2>Python Coding 2</h2>
-        <p class="desc">Intermediate Python programming credential publicly verified through Credly.</p>
-        <a class="btn" href="https://www.credly.com/badges/5c1f2234-ae0a-45de-af49-677dce570e23/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a>
-      </article>
-      <article class="card">
-        <div class="issuer">The Open University / OpenLearn</div>
-        <h2>Introduction to Cyber Security: Stay Safe Online</h2>
-        <p class="desc">Foundational cybersecurity credential covering online threats, malware, network security, identity protection, and safer online practices.</p>
-        <a class="btn" href="https://www.open.edu/openlearn/badges/badge.php?hash=3f3aaed522c2cc2d8d04c733dabbdee7f154f51e" target="_blank" rel="noopener noreferrer">Verify Credential</a>
-      </article>
+    <section class="provider">
+      <div class="provider-head"><h2>Google Cloud</h2><span class="count">2 credentials</span></div>
+      <div class="grid">
+        <article class="card"><div class="issuer">Google Cloud</div><h3>Build a Secure Google Cloud Network</h3><p class="desc">Hands-on Google Cloud credential demonstrating secure cloud networking, VPC design, firewall controls, private connectivity, and defensive network configuration.</p><a class="btn" href="https://www.credly.com/badges/087862e0-45ad-40e5-acab-1af9485822d5/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a></article>
+        <article class="card"><div class="issuer">Google Cloud</div><h3>Implement Cloud Security Fundamentals on Google Cloud</h3><p class="desc">Hands-on Google Cloud credential covering foundational cloud security, identity and access management, service accounts, encryption, and secure cloud networking.</p><a class="btn" href="https://www.credly.com/badges/3a3a7799-7310-4c39-9ff6-879ae89dd610/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a></article>
+      </div>
+    </section>
+
+    <section class="provider">
+      <div class="provider-head"><h2>Amazon Web Services (AWS)</h2><span class="count">1 credential</span></div>
+      <div class="grid">
+        <article class="card"><div class="issuer">Amazon Web Services (AWS)</div><h3>AWS Incident Response Demonstrated</h3><p class="desc">Hands-on AWS credential demonstrating practical cloud incident response across detection, investigation, containment, and remediation workflows.</p><a class="btn" href="https://www.credly.com/badges/fcfbca6c-7cc7-4de2-9704-a1bdf9d7ed4b/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a></article>
+      </div>
+    </section>
+
+    <section class="provider">
+      <div class="provider-head"><h2>Cisco</h2><span class="count">4 credentials</span></div>
+      <div class="grid">
+        <article class="card"><div class="issuer">Cisco</div><h3>Ethical Hacking</h3><p class="desc">Ethical hacking credential publicly verified through Credly.</p><a class="btn" href="https://www.credly.com/badges/cc6f57d0-015b-40d1-ad02-2afb4c1a37ac/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a></article>
+        <article class="card"><div class="issuer">Cisco</div><h3>Cisco Networking</h3><p class="desc">Networking credential publicly verified through Credly.</p><a class="btn" href="https://www.credly.com/badges/5f247425-d38a-4497-bbb6-126668af27fc/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a></article>
+        <article class="card"><div class="issuer">Cisco</div><h3>Python Coding 1</h3><p class="desc">Python programming credential publicly verified through Credly.</p><a class="btn" href="https://www.credly.com/badges/6b3e909b-45d8-44f4-8a31-c878bcbd7495/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a></article>
+        <article class="card"><div class="issuer">Cisco</div><h3>Python Coding 2</h3><p class="desc">Intermediate Python programming credential publicly verified through Credly.</p><a class="btn" href="https://www.credly.com/badges/5c1f2234-ae0a-45de-af49-677dce570e23/public_url" target="_blank" rel="noopener noreferrer">Verify Credential</a></article>
+      </div>
+    </section>
+
+    <section class="provider">
+      <div class="provider-head"><h2>Other Credentials</h2><span class="count">1 credential</span></div>
+      <div class="grid">
+        <article class="card"><div class="issuer">The Open University / OpenLearn</div><h3>Introduction to Cyber Security: Stay Safe Online</h3><p class="desc">Foundational cybersecurity credential covering online threats, malware, network security, identity protection, and safer online practices.</p><a class="btn" href="https://www.open.edu/openlearn/badges/badge.php?hash=3f3aaed522c2cc2d8d04c733dabbdee7f154f51e" target="_blank" rel="noopener noreferrer">Verify Credential</a></article>
+      </div>
     </section>
 
     <div class="footer">Joshua Jones • J2SEC • <a href="https://github.com/jsquaresec">github.com/jsquaresec</a></div>
