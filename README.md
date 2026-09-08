@@ -54,6 +54,14 @@ SOFTWARE  // bots • APIs • automation • backend development
 
 ## Certifications & Badges
 
+### Build a Secure Google Cloud Network
+
+**Google Cloud** • Issued September 2026
+
+Hands-on Google Cloud credential demonstrating secure cloud networking, VPC design, firewall controls, private connectivity, and defensive network configuration.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/087862e0-45ad-40e5-acab-1af9485822d5/public_url)
+
 ### Implement Cloud Security Fundamentals on Google Cloud
 
 **Google Cloud** • Issued September 2026
