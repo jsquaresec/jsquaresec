@@ -54,6 +54,14 @@ SOFTWARE  // bots • APIs • automation • backend development
 
 ## Certifications & Badges
 
+### Implement Cloud Security Fundamentals on Google Cloud
+
+**Google Cloud** • Issued September 2026
+
+Hands-on Google Cloud credential covering foundational cloud security practices, identity and access management, service accounts, encryption, and secure cloud networking.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/3a3a7799-7310-4c39-9ff6-879ae89dd610/public_url)
+
 ### AWS Incident Response Demonstrated
 
 **Amazon Web Services (AWS)** • Issued September 2026
