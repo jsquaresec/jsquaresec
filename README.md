@@ -54,6 +54,14 @@ SOFTWARE  // bots • APIs • automation • backend development
 
 ## Certifications & Badges
 
+### AWS Application Networking Demonstrated
+
+**Amazon Web Services (AWS)** • Issued September 2026
+
+Hands-on AWS credential demonstrating practical application networking skills across cloud connectivity, routing, load balancing, service communication, and resilient application delivery.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/46477737-7d9e-41e7-b23b-76c5a598169e/public_url)
+
 ### Implement DevOps Workflows in Google Cloud
 
 **Google Cloud** • Issued September 2026
