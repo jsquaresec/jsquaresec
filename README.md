@@ -140,6 +140,16 @@ Intermediate Python programming credential issued by Cisco and publicly verified
 
 [![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/5c1f2234-ae0a-45de-af49-677dce570e23/public_url)
 
+### Hack The Box
+
+#### Hack The Box Achievement Badge
+
+**Hack The Box** • September 2026
+
+Practical cybersecurity lab achievement earned through Hack The Box Labs.
+
+[![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://labs.hackthebox.com/achievement/badge/3945090/242)
+
 ### Other Credentials
 
 #### Introduction to Cyber Security: Stay Safe Online
