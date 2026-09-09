@@ -54,6 +54,14 @@ SOFTWARE  // bots • APIs • automation • backend development
 
 ## Certifications & Badges
 
+### Build Infrastructure with Terraform on Google Cloud
+
+**Google Cloud** • Issued September 2026
+
+Hands-on Google Cloud credential demonstrating infrastructure as code with Terraform, including provisioning, configuration, reusable modules, and automated cloud infrastructure management.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/02751b0c-9c07-4a42-91e8-6a54c3a0192b/public_url)
+
 ### AWS Application Networking Demonstrated
 
 **Amazon Web Services (AWS)** • Issued September 2026
