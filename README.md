@@ -174,6 +174,14 @@ Intermediate Python programming credential issued by Cisco and publicly verified
 
 ### AttackIQ
 
+#### Breach & Attack Simulation
+
+**AttackIQ** • Issued September 2026
+
+AttackIQ credential covering breach and attack simulation concepts, security control validation, adversary emulation, testing workflows, and continuous defensive improvement.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/de4fae36-1f0a-4fad-bd2f-82c23f3fb135/public_url)
+
 #### Foundations of Purple Teaming
 
 **AttackIQ** • Issued September 2026
