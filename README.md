@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <br>
 
 # J2SEC
@@ -175,11 +173,19 @@ Intermediate Python programming credential issued by Cisco and publicly verified
 
 ### Hack The Box
 
-#### Hack The Box Achievement Badge
+#### That Was A SOCer
 
 **Hack The Box** • September 2026
 
-Practical cybersecurity lab achievement earned through Hack The Box Labs.
+Practical Hack The Box Labs achievement demonstrating hands-on security operations and investigation skills.
+
+[![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://labs.hackthebox.com/achievement/badge/3945090/243)
+
+#### Investigator In The Making
+
+**Hack The Box** • September 2026
+
+Practical Hack The Box Labs achievement earned through hands-on cybersecurity investigation exercises.
 
 [![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://labs.hackthebox.com/achievement/badge/3945090/242)
 
