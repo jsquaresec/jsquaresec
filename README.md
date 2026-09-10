@@ -52,6 +52,39 @@ SOFTWARE  // bots • APIs • automation • backend development
 
 ---
 
+## Featured Security Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 PurpleTeamBot
+
+Lightweight Discord-based purple-team and security-operations platform built for **OSINT, person intelligence, threat intelligence, vulnerability research, defensive analysis, and authorized reconnaissance**.
+
+Designed to run on small infrastructure while integrating tools and providers such as **Nmap, VirusTotal, EnformionGO, HIBP, Shodan, AbuseIPDB, SecurityTrails, FIRST EPSS, and CISA KEV**.
+
+[![View Repository](https://img.shields.io/badge/View-PurpleTeamBot-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsquaresec/PurpleTeamBot)
+
+</td>
+<td width="50%" valign="top">
+
+### BlackPort
+
+Network security scanner for authorized assessment work with **TCP/SYN/UDP scanning, service fingerprinting, vulnerability correlation, reporting, and a local GUI**.
+
+Built as a focused offensive-security and network-assessment tool for discovering exposed services and prioritizing potential vulnerabilities.
+
+[![View Repository](https://img.shields.io/badge/View-BlackPort-168BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsquaresec/BlackPort)
+
+</td>
+</tr>
+</table>
+
+> Security tooling is developed for authorized testing, defensive research, infrastructure hardening, and legitimate OSINT use.
+
+---
+
 ## Certifications & Badges
 
 ### Google Cloud
@@ -176,35 +209,6 @@ Foundational cybersecurity credential covering online threats, malware, network 
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
----
-
-## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### BlackPort
-
-Network security scanner for authorized assessment work with TCP/SYN/UDP scanning, service fingerprinting, vulnerability correlation, reporting, and a local GUI.
-
-[![View Repository](https://img.shields.io/badge/View-BlackPort-168BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsquaresec/BlackPort)
-
-</td>
-<td width="50%" valign="top">
-
-### nohelmet
-
-Lightweight FiveM resource for keeping automatic helmets off player characters.
-
-[![View Repository](https://img.shields.io/badge/View-nohelmet-168BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsquaresec/nohelmet)
-
-</td>
-</tr>
-</table>
-
-> More security, infrastructure, and community projects are developed privately and published when they are ready for public use.
 
 ---
 
