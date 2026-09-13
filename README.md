@@ -174,6 +174,14 @@ Intermediate Python programming credential issued by Cisco and publicly verified
 
 ### AttackIQ
 
+#### Beyond Atomic Testing with Attack Flows
+
+**AttackIQ** • Issued September 2026
+
+Intermediate AttackIQ credential focused on moving beyond isolated atomic tests by using Attack Flows to validate EDR and AI-based security controls through realistic multi-step adversary behavior.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/4d1e100d-ca7d-43c1-a1b7-d621e87db7c3)
+
 #### Intermediate Purple Teaming
 
 **AttackIQ** • Issued September 2026
