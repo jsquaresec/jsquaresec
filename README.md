@@ -88,6 +88,14 @@ Built as a focused offensive-security and network-assessment tool for discoverin
 
 ### Google Cloud
 
+#### Implement CI/CD Pipelines on Google Cloud
+
+**Google Cloud** • Issued September 2026
+
+Hands-on Google Cloud credential demonstrating continuous integration and continuous delivery workflows, automated builds, testing, deployment pipelines, and cloud-native software delivery.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/c9b68674-0dad-4e4b-9c3b-044363d42e18/public_url)
+
 #### Develop and Secure APIs with Apigee X
 
 **Google Cloud** • Issued September 2026
