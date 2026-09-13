@@ -88,6 +88,14 @@ Built as a focused offensive-security and network-assessment tool for discoverin
 
 ### Google Cloud
 
+#### Develop and Secure APIs with Apigee X
+
+**Google Cloud** • Issued September 2026
+
+Hands-on Google Cloud credential demonstrating API development and security with Apigee X, including API proxies, policies, access control, traffic management, and secure API delivery.
+
+[![Verify on Credly](https://img.shields.io/badge/Verify-Credly-168BFF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/09523777-2ae2-40fd-9ba9-1cd800e31aff/public_url)
+
 #### Use Machine Learning APIs on Google Cloud
 
 **Google Cloud** • Issued September 2026
