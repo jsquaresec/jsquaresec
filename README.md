@@ -16,7 +16,7 @@ Building secure systems, useful software, automation, infrastructure, and commun
 [![X](https://img.shields.io/badge/X-@j2__sec-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/j2_sec?s=11)
 [![Certifications](https://img.shields.io/badge/Verified-Credentials-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jsquaresec.github.io/jsquaresec/certifications/)
 [![OTD Studios](https://img.shields.io/badge/Discord-OTD%20Studios-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nz5jE7PVh7)
-[![Evolution Gaming](https://img.shields.io/badge/Discord-Evolution%20Gaming-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rjf9ZYMARN)
+[![CyberSpace](https://img.shields.io/badge/Discord-CyberSpace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/z4WB64BSV5)
 [![Only The Demons](https://img.shields.io/badge/Web-onlythedemons.com-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlythedemons.com)
 
 </div>
@@ -309,11 +309,11 @@ Security-focused software, infrastructure, bots, and community projects.
 </td>
 <td width="50%" valign="top">
 
-### Evolution Gaming
+### CyberSpace
 
-Gaming community centered around people, shared interests, and building a place worth being part of.
+Cybersecurity community centered around learning, collaboration, and building alongside other security-minded people.
 
-[![Join Evolution Gaming](https://img.shields.io/badge/Join-Evolution%20Gaming-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rjf9ZYMARN)
+[![Join CyberSpace](https://img.shields.io/badge/Join-CyberSpace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/z4WB64BSV5)
 
 </td>
 </tr>
@@ -340,7 +340,7 @@ Gaming community centered around people, shared interests, and building a place 
 [![Certifications](https://img.shields.io/badge/Verified-Credentials-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jsquaresec.github.io/jsquaresec/certifications/)
 [![Website](https://img.shields.io/badge/Website-onlythedemons.com-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlythedemons.com)
 [![OTD Studios](https://img.shields.io/badge/Discord-OTD%20Studios-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nz5jE7PVh7)
-[![Evolution Gaming](https://img.shields.io/badge/Discord-Evolution%20Gaming-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rjf9ZYMARN)
+[![CyberSpace](https://img.shields.io/badge/Discord-CyberSpace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/z4WB64BSV5)
 
 </div>
 
