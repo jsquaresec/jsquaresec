@@ -264,6 +264,16 @@ Practical Hack The Box Labs achievement earned through hands-on cybersecurity in
 
 [![View Achievement](https://img.shields.io/badge/View-Hack%20The%20Box%20Achievement-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111)](https://labs.hackthebox.com/achievement/badge/3945090/242)
 
+### TryHackMe
+
+#### Placed #1 in Bronze League
+
+**TryHackMe** • September 2026
+
+TryHackMe competitive achievement recognizing a first-place finish in the Bronze League.
+
+[![View Achievement](https://img.shields.io/badge/View-TryHackMe%20Achievement-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/jsquaresec/badges/bronze-league?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6aa58ef9208838a64756eb1a)
+
 ### Other Credentials
 
 #### Introduction to Cyber Security: Stay Safe Online
