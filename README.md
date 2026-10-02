@@ -15,8 +15,8 @@ Building secure systems, useful software, automation, infrastructure, and commun
 
 [![X](https://img.shields.io/badge/X-@j2__sec-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/j2_sec?s=11)
 [![Certifications](https://img.shields.io/badge/Verified-Credentials-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jsquaresec.github.io/jsquaresec/certifications/)
-[![OTD Studios](https://img.shields.io/badge/Discord-OTD%20Studios-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nz5jE7PVh7)
-[![CyberSpace](https://img.shields.io/badge/Discord-CyberSpace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cBpNNssAjC)
+[![Cyber Space](https://img.shields.io/badge/Discord-Cyber%20Space-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMNhCzDCuV)
+[![Cyber Space](https://img.shields.io/badge/Discord-Cyber Space-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMNhCzDCuV)
 [![Only The Demons](https://img.shields.io/badge/Web-onlythedemons.com-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlythedemons.com)
 
 </div>
@@ -353,21 +353,21 @@ Foundational cybersecurity credential covering online threats, malware, network 
 <tr>
 <td width="50%" valign="top">
 
-### OTD Studios
+### Cyber Space
 
 Security-focused software, infrastructure, bots, and community projects.
 
-[![Join OTD Studios](https://img.shields.io/badge/Join-OTD%20Studios-168BFF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nz5jE7PVh7)
+[![Join Cyber Space](https://img.shields.io/badge/Join-Cyber%20Space-168BFF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMNhCzDCuV)
 [![Website](https://img.shields.io/badge/Visit-onlythedemons.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlythedemons.com)
 
 </td>
 <td width="50%" valign="top">
 
-### CyberSpace
+### Cyber Space
 
 Cybersecurity community centered around learning, collaboration, and building alongside other security-minded people.
 
-[![Join CyberSpace](https://img.shields.io/badge/Join-CyberSpace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cBpNNssAjC)
+[![Join Cyber Space](https://img.shields.io/badge/Join-Cyber Space-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMNhCzDCuV)
 
 </td>
 </tr>
@@ -393,8 +393,8 @@ Cybersecurity community centered around learning, collaboration, and building al
 [![GitHub](https://img.shields.io/badge/GitHub-jsquaresec-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsquaresec)
 [![Certifications](https://img.shields.io/badge/Verified-Credentials-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jsquaresec.github.io/jsquaresec/certifications/)
 [![Website](https://img.shields.io/badge/Website-onlythedemons.com-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlythedemons.com)
-[![OTD Studios](https://img.shields.io/badge/Discord-OTD%20Studios-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nz5jE7PVh7)
-[![CyberSpace](https://img.shields.io/badge/Discord-CyberSpace-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cBpNNssAjC)
+[![Cyber Space](https://img.shields.io/badge/Discord-Cyber%20Space-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMNhCzDCuV)
+[![Cyber Space](https://img.shields.io/badge/Discord-Cyber Space-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMNhCzDCuV)
 
 </div>
 
