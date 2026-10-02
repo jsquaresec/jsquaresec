@@ -16,7 +16,6 @@ Building secure systems, useful software, automation, infrastructure, and commun
 [![X](https://img.shields.io/badge/X-@j2__sec-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/j2_sec?s=11)
 [![Certifications](https://img.shields.io/badge/Verified-Credentials-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jsquaresec.github.io/jsquaresec/certifications/)
 [![Cyber Space](https://img.shields.io/badge/Discord-Cyber%20Space-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMNhCzDCuV)
-[![Cyber Space](https://img.shields.io/badge/Discord-Cyber Space-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMNhCzDCuV)
 [![Only The Demons](https://img.shields.io/badge/Web-onlythedemons.com-168BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlythedemons.com)
 
 </div>
@@ -349,29 +348,12 @@ Foundational cybersecurity credential covering online threats, malware, network 
 
 ## Communities
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Cyber Space
 
-Security-focused software, infrastructure, bots, and community projects.
+Cybersecurity community centered around learning, collaboration, security, and building alongside other security-minded people.
 
-[![Join Cyber Space](https://img.shields.io/badge/Join-Cyber%20Space-168BFF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMNhCzDCuV)
+[![Join Cyber Space](https://img.shields.io/badge/Join-Cyber%20Space-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMNhCzDCuV)
 [![Website](https://img.shields.io/badge/Visit-onlythedemons.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlythedemons.com)
-
-</td>
-<td width="50%" valign="top">
-
-### Cyber Space
-
-Cybersecurity community centered around learning, collaboration, and building alongside other security-minded people.
-
-[![Join Cyber Space](https://img.shields.io/badge/Join-Cyber Space-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMNhCzDCuV)
-
-</td>
-</tr>
-</table>
 
 ---
 
